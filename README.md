@@ -1,1 +1,1 @@
-Repositório da disciplina de Algoritmos e Estruturas de dados II, 2026
+Repositório da disciplina de Algoritmos e Estruturas de Dados II, 2026
